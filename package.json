@@ -9,18 +9,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/servermonk/Algorithm-Visualizer.git"
+    "url": "git+https://github.com/ManuStealth"
   },
   "keywords": [
     "graphs",
     "pathfinding-visualiser"
   ],
-  "author": "servermonk, zeddie",
-  "license": "ISC",
+  "author": "ManuStealth",
+  "license": "",
   "bugs": {
-    "url": "https://github.com/servermonk/Algorithm-Visualizer/issues"
+    "url": "https://github.com/ManuStealth/Algorithm-Visualizer/issues"
   },
-  "homepage": "https://github.com/servermonk/Algorithm-Visualizer#readme",
+  "homepage": "https://github.com/ManuStealth/Algorithm-Visualizer#readme",
   "dependencies": {
     "express": "^4.17.1"
   }
